@@ -1,0 +1,23 @@
+.contenedor1{
+    background-color: aqua;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.contenedor1 div{background-color: fuchsia; margin: 10px 5px; padding: 5px; width: 50px;}
+
+.contenedor2{
+    background-color: teal;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.contenedor2 div{background-color: rgb(32, 189, 39); margin: 10px 5px; padding: 5px; width: 50px;}
+
+.contenedor3{
+    background-color: mediumslateblue;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.contenedor3 div{background-color: salmon; margin: 10px 5px; padding: 5px; width: 50px;}
